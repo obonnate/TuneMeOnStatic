@@ -298,19 +298,19 @@ ul.list-in-text li:before {
 .intro-wrapper .light-box p {
   width: 70%;
 }
-/*
+
 .intro-wrapper .first::after {
-  background-image: url("../img/icon/marketing.svg");
+  background-image: url("../img/icon/qrcode.svg");
 }
 
 .intro-wrapper .second::after {
-  background-image: url("../img/icon/identity.svg");
+  background-image: url("../img/icon/jukebox.svg");
 }
 
 .intro-wrapper .third::after {
-  background-image: url("../img/icon/email.svg");
+  background-image: url("../img/icon/music.svg");
 }
-*/
+
 .clients {
   padding: 40px 0px;
   position: relative;
